@@ -55,7 +55,7 @@ with open("file.csv","w") as f:
         writer.writerow(["paragraphs", p])
 
 
-print("\nData stored succseefullu")
+print("\nData stored succseefully")
 
 
 
