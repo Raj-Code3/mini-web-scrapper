@@ -1,0 +1,20 @@
+headlines
+mini-web-scrapper/scraping.py at main · Raj-Code3/mini-web-scrapper · GitHub
+Navigation Menu
+Search code, repositories, users, issues, pull requests...
+Provide feedback
+Saved searches
+Use saved searches to filter your results more quickly
+FilesExpand file tree
+Breadcrumbs
+scraping.py
+Latest commit
+History
+Breadcrumbs
+scraping.py
+File metadata and controls
+Footer
+Footer navigation
+paragraphs
+We read every piece of feedback, and take your input very seriously.
+To see all available qualifiers, see ourdocumentation.
